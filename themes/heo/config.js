@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.yangfeiyue.eu.cc' },
+    { title: '我是楊飛躍,欢迎来到我的博客', url: 'https://blog.yangfeiyue.eu.cc' },
     { title: '访问文档中心获取更多帮助', url: 'https://blog.yangfeiyue.eu.cc' }
   ],
 
